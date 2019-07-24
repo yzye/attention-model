@@ -16,10 +16,6 @@ The datasets `pos.txt` and `neg.txt` are reviews from Taobao a Chinese online sh
 
 Run `main.ipynb` or `python main.py` in the command line.
 
-## Prediction and visuliation on 
-Ten topics prediction from yahoo
-
-![](/plots/schemes/predictions.png) 
 
 
 
